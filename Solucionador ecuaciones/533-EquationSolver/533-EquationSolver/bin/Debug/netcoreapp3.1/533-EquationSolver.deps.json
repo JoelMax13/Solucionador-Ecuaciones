@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "533-EquationSolver/1.0.0": {
+        "runtime": {
+          "533-EquationSolver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "533-EquationSolver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
